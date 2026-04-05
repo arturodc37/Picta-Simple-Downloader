@@ -290,5 +290,3 @@ Make sure MP4Box is available: on Windows, verify that `extras\gpac\mp4box.exe` 
 Asegúrate de que MP4Box esté disponible: en Windows, verifica que exista `extras\gpac\mp4box.exe`; en Linux, ejecuta `MP4Box -version` en la terminal para confirmar que está instalado.
 
 ---
-
-*PictaCU Downloader v2.0 — for entertainment use only / solo para uso recreativo*
