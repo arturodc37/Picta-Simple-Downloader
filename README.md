@@ -12,6 +12,36 @@
 
 ---
 
+## ⬇️ Download / Descarga
+
+**[EN]** You can download the latest version of Picta Downloader from the official releases page:
+
+👉 **https://github.com/arturodc37/Picta-Simple-Downloader/releases/tag/v1**
+
+Steps:
+1. Go to the link above
+2. Scroll down to the **Assets** section
+3. Download the file for your system:
+   - **Windows** → download `picta-win64.zip`
+   - **Linux** → download `picta-linux.zip`
+4. Place the downloaded file in any folder of your choice
+5. That's it — just run it and follow the on-screen instructions
+
+**[ES]** Puedes descargar la última versión de Picta Downloader desde la página oficial de releases:
+
+👉 **https://github.com/arturodc37/Picta-Simple-Downloader/releases/tag/v1**
+
+Pasos:
+1. Ve al enlace de arriba
+2. Desplázate hacia abajo hasta la sección **Assets**
+3. Descarga el archivo para tu sistema:
+   - **Windows** → descarga `picta-win64.zip`
+   - **Linux** → descarga `picta-linux.zip`
+4. Coloca el archivo descargado en cualquier carpeta de tu elección
+5. Eso es todo — ejecútalo y sigue las instrucciones en pantalla
+
+---
+
 ## 🎬 How to find a Video ID / Cómo encontrar el ID de un video
 
 **[EN]** Picta does not show the video ID directly on the page. You need to inspect the network traffic while the video is playing:
@@ -23,7 +53,7 @@
 
 ```
 https://videos.picta.cu/videos/e5935327979e415b9f235afd590b1793/video/480p/segment_001.m4s
-                                └─────────────── video ID ───────────────┘
+                                └──────── video ID ────────────┘
 ```
 
 5. The video ID is the long alphanumeric string between `/videos/` and `/video/` — in this example:
