@@ -45,7 +45,7 @@ e5935327979e415b9f235afd590b1793
 
 ```
 https://videos.picta.cu/videos/e5935327979e415b9f235afd590b1793/video/480p/segment_001.m4s
-                                └─────────────── ID del video ───────────────┘
+                                └────────ID del video ────────┘
 ```
 
 5. El ID del video es la cadena alfanumérica larga que está entre `/videos/` y `/video/` — en este ejemplo:
